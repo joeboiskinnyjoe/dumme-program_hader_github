@@ -165,6 +165,7 @@ main a:hover, main a:focus { color: var(--heading); }
 /* ===== Footer ===== */
 .site-footer {
   margin-top: auto;
+  margin-bottom: 0;
   background-color: var(--footer-bg);
   padding: 1rem;
   color: var(--text);
